@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\projects_Dimple\libraryManagementSystemSoftware\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2416985643.index
+4207606346.index
+2389900595.index
+2835938756.index
+1652012260.index
+605456571.index

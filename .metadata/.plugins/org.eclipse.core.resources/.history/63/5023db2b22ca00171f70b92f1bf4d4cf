@@ -1,0 +1,5 @@
+package edu.library.term.service.copy;
+
+public interface BookingCartService {
+
+}
